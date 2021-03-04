@@ -1,2 +1,1 @@
-# Quiz-Application-on-python
-Edyoda Python Project
+# Python-_MCQ_Quiz
